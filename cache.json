@@ -1,0 +1,33 @@
+{
+  "program": {
+    "candyMachine": "CTLcJfx3UFNGY9EfssHzrmWs5qToPreqMYyy5ekpCkSz",
+    "candyMachineCreator": "2pwSfTB829wojVhahX8ZnBhZt9b6kQHj7NkSZoFErcdL",
+    "collectionMint": ""
+  },
+  "items": {
+    "0": {
+      "name": "up_picnic",
+      "image_hash": "3f642e02b16e4889c91d301fa64d387ea5a86bc932619f0ac7f460b269ef8f23",
+      "image_link": "https://nftstorage.link/ipfs/bafybeif3p34x6lj3sew6k2jwhupqk74gho6qs45fvsmduvehjtig6tgoum/0.png",
+      "metadata_hash": "aea6712333c76e59fce452b4ecaee392a7a6e0321315bc89ffbce90f7b05902a",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeicjgcnw6sf25zgljbkfdw3mkkhox7gdmnkt3zz7jpd5beq4s22rei/0.json",
+      "onChain": true
+    },
+    "1": {
+      "name": "up_viagem",
+      "image_hash": "70fadf4b761d38b4e4d6472274d0eebafdfa6c57edeb5129bebaf76473ac0ea2",
+      "image_link": "https://nftstorage.link/ipfs/bafybeif3p34x6lj3sew6k2jwhupqk74gho6qs45fvsmduvehjtig6tgoum/1.png",
+      "metadata_hash": "eb2d88ec0993fa064e52d19bd9fc3ec9ee1475c502daa5560c1fd630dca49e74",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeicjgcnw6sf25zgljbkfdw3mkkhox7gdmnkt3zz7jpd5beq4s22rei/1.json",
+      "onChain": true
+    },
+    "2": {
+      "name": "up_sala",
+      "image_hash": "3a78ddd2119b2db83d915b3ac09dbd19f95a0364b1ed0e0a7dbfd1eed611081f",
+      "image_link": "https://nftstorage.link/ipfs/bafybeif3p34x6lj3sew6k2jwhupqk74gho6qs45fvsmduvehjtig6tgoum/2.png",
+      "metadata_hash": "497d18a5af5ce7edde3c76c4cba12b0c1aab19fb6337e6804072e79655c85575",
+      "metadata_link": "https://nftstorage.link/ipfs/bafybeicjgcnw6sf25zgljbkfdw3mkkhox7gdmnkt3zz7jpd5beq4s22rei/2.json",
+      "onChain": true
+    }
+  }
+}
